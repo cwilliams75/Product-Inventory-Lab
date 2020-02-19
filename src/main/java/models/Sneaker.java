@@ -1,3 +1,4 @@
+/*
 package models;
 
 public class Sneaker {
@@ -8,4 +9,8 @@ public class Sneaker {
     private int size;
     private int qty;
     private float price;
+
 }
+    public void setName(String name) {
+        this.name = name;
+    }*/
